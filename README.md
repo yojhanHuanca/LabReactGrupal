@@ -11,7 +11,7 @@ Cada proyecto se encuentra integrado mediante Git Submodules para mantener indep
 | Integrante | Proyecto |
 |---|---|
 | Anderson Rivera | CineSpoilers |
-| Yojhan Huancca |  |
+| Yojhan Huancca | CinEPlis |
 | Carlos Carbajal | |
 
 ---
@@ -104,7 +104,35 @@ npm run dev
 ![React](./Capturas/firstcomponent.png)
 
 ---
+# 02 🖼️ Capturas del proyecto
 
+# Documentación de CinEPlis
+
+## 1. Verificar versiones de Node.js y npm
+
+<img width="707" height="498" alt="image" src="https://github.com/user-attachments/assets/64a1434a-6f66-4a02-83b2-179621e0bfab" />
+
+## 2. Crear proyecto con Vite
+
+<img width="792" height="753" alt="image" src="https://github.com/user-attachments/assets/34ee7967-55f7-4058-8018-e992db3d135f" />
+
+## 3. Iniciar el servidor de desarrollo
+
+<img width="1909" height="963" alt="image" src="https://github.com/user-attachments/assets/5fbefef2-b4be-4b20-80d1-a414df2cc37e" />
+
+## 4. Ejecutar comando para mostrar nombre del proyecto
+
+<img width="1866" height="1015" alt="image" src="https://github.com/user-attachments/assets/16a4a1a1-3bcc-416e-b8dc-981cf18d54a3" />
+
+## 5. Ejecutar comando para mostrar nombre del proyecto
+
+<img width="1195" height="779" alt="image" src="https://github.com/user-attachments/assets/b9c3dea1-e4cc-40b3-9c75-94f99484ff82" />
+
+## 6. Crear un componente React
+
+<img width="1717" height="876" alt="image" src="https://github.com/user-attachments/assets/7217fe3c-f28d-4c38-ba4b-b0aad37f048b" />
+
+---
 # 🎯 Objetivos del proyecto
 
 - Aprender React moderno
