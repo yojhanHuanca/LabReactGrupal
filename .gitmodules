@@ -1,0 +1,9 @@
+[submodule "LabReact"]
+	path = LabReact
+	url = https://github.com/Ingaxgaramendi/LabReact.git
+[submodule "CinEPlis"]
+	path = CinEPlis
+	url = https://github.com/yojhanHuanca/CinEPlis.git
+[submodule "React_Cinespoilers"]
+	path = React_Cinespoilers
+	url = https://github.com/Gonnarch/React_Cinespoilers.git
